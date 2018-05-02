@@ -1,5 +1,5 @@
 #
-# Author: jon@nutanix.com
+# Author: tarak@nutanix.com
 #
 #############################################################################
 # Demo Multi-Tier App Deployment                                  
